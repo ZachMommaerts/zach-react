@@ -4,7 +4,7 @@ const Div = styled.div`
 
 `
 
-export default function About() {
+export default function NavBar() {
   return(
     <Div>
       
